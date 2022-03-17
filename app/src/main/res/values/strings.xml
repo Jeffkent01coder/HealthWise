@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Health IQ</string>
+    <string name="health_iq">Health IQ</string>
+    <string name="your_health_is_our_concern">Your Health Is Our Concern</string>
+    <string name="get_started">Get Started</string>
+    <string name="health_conditions">Health Conditions</string>
+</resources>
